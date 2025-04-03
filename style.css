@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family:monospace;
+    background-image:radial-gradient(circle, white, pink, hotpink);
+}
+
+table {
+    margin-left:35%;
+    background-image: radial-gradient(circle, white, lightblue, skyblue)
+    border: dotted skyblue 10px;
+}
+
+iframe{
+    border: double skyblue, 10px;
+}
+img{
+    border:dashed lightgreen, 20px;
+}
+
+h1{
+font-weight: 800;    
+background-color: lightgreen;
+}
+
+.peli{
+    background-color: skyblue;
+    margin: solid, lightgreen, 5px;
+}
